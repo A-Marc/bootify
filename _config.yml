@@ -12,8 +12,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bootify.fr" # the base hostname & protocol for your site
 social:
   github: https://github.com/A-Marc
-  linkedin-square: https://linkedin.com/in/<username>
-  email: mail.marc.arnal@gmail.com
+  linkedin-square: https://www.linkedin.com/in/marc-arnal-b413a6ba/
+  email: mailto:mail.marc.arnal@gmail.com
   #flickr:
   #instagram:
   #youtube-square:
